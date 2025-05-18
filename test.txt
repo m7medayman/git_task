@@ -1,2 +1,0 @@
-this is test text to check the git ignore 
-2- this shouldn't be ignoared because of the git cash
