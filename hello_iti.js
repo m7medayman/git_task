@@ -1,5 +1,5 @@
 class HellowITI{
     constructor(){
-        console.log("Hello ITI");
+        console.log("omar mohamed");
     }
 }
